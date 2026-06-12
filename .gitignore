@@ -28,3 +28,5 @@ yarn-debug.log*
 yarn-error.log*
 
 .vs/
+
+EnergyMap.Web/src/environments/*.ts
